@@ -16,6 +16,10 @@
 This App will fetch Movie Details from OMDB API and allow users to search and save favourites.
 VS code is used as a Editor. and using command npm install and then npm start you can run the application from VS Code Studio.
 
+#*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/7ace2211-6be6-4458-9b4c-ef23b9271e9d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
